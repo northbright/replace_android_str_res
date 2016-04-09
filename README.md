@@ -1,5 +1,6 @@
+# `replace_android_str_res` 
 
-# Manual
+[![Build Status](https://travis-ci.org/northbright/replace_android_str_res.svg?branch=master)](https://travis-ci.org/northbright/replace_android_str_res)
 
 `replace_android_str_res` is a tool to replace strings in xml files(<string>xxxx</string>) with new strings under Android app resource path(xx/res/).
 
