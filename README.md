@@ -1,6 +1,7 @@
 # `replace_android_str_res` 
 
 [![Build Status](https://travis-ci.org/northbright/replace_android_str_res.svg?branch=master)](https://travis-ci.org/northbright/replace_android_str_res)
+[![Go Report Card](https://goreportcard.com/badge/github.com/northbright/replace_android_str_res)](https://goreportcard.com/report/github.com/northbright/replace_android_str_res)
 
 `replace_android_str_res` is a tool written in [Golang](http://golang.org) which replaces strings in xml files(`<string>xxxx</string>`) with new strings under Android app resource path(xx/res/).
 
