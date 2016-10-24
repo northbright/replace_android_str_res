@@ -27,3 +27,6 @@ Usage:
 
 Ex:  
 `replace_android_str_res -s "Miracast" -n "Wireless Display" -f "miracast_strings.xml" -r ~/proj/packages/app/settings/res``
+
+#### License
+* [MIT License](LICENSE)
